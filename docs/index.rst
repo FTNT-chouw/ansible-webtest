@@ -3,14 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Ansible Galaxy FortiWeb Collection Documentation 1.0.1!
+Welcome to Ansible Galaxy FortiADC Collection Documentation 1.1.0!
 ============================================================================
 
-The FortiWeb Ansible Collection provides Ansible modules for configuring FortiWeb appliances.
+The FortiADC Ansible Collection provides Ansible modules for configuring FortiADC appliances.
 
 .. toctree::
    :glob:
-   :caption: FortiWeb/Galaxy Version Mapping Guide
+   :caption: FortiADC/Galaxy Version Mapping Guide
    :maxdepth: 1
 
    version.rst

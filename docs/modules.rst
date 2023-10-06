@@ -6,4 +6,4 @@ Configuration Modules
    :glob: 
    :maxdepth: 1
 
-   fwb-gen/*
+   gen/fadcos*
